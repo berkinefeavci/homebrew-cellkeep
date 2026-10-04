@@ -1,6 +1,6 @@
 cask "cellkeep" do
-  version "1.2.2"
-  sha256 "bb1f0b8fb48e991a065758d8d4553824b95436e069c58d2c37e4e3f114cf73bb"
+  version "1.2.3"
+  sha256 "dc92b253f9077cb66e8375a992b7a8f4adf7dde6f0f07d4471e2cffe9f660fe7"
 
   url "https://github.com/berkinefeavci/healthy-battery/releases/download/v#{version}/Cellkeep-#{version}.dmg"
   name "Healthy Battery"
